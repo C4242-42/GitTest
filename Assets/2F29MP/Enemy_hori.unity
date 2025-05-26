@@ -173,7 +173,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: aa88b1359b67c5d49a36dd42174ef4f3, type: 2}
     - target: {fileID: 3658648245167469526, guid: fdd1562e11935794db0d8545e197bff3, type: 3}
       propertyPath: m_Name
-      value: HoriCylinder
+      value: EnemyCylinder
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

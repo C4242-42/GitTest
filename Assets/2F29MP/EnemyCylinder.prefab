@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2230164664281017894}
   - component: {fileID: 9085415872903931758}
   m_Layer: 0
-  m_Name: HoriCllinder
+  m_Name: EnemyCylinder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
